@@ -1,5 +1,11 @@
 {
   "name": "Hass.IO add-on repository",
   "url": "https://www.github.com/HerrHofrat/hassio-addons",
-  "maintainer": "HerrHofrat"
+  "maintainer": "HerrHofrat",
+  "arch": [
+    "aarch64",
+    "amd64",
+    "armv7",
+    "i386"
+  ],
 }
